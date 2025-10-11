@@ -1,0 +1,25 @@
+🔄 /Users/chris/pics/test_dedup/IMG_0189.jpeg -> /Users/chris/org_pics_test/24/12/22/IMG_0189.jpeg [DUPLICATE] (SKIPPED - 3.98 MB saved)
+🔄 /Users/chris/pics/test_dedup/subfolder/IMG_0189.jpeg -> /Users/chris/org_pics_test/24/12/22/IMG_0189.jpeg [DUPLICATE] (SKIPPED - 3.98 MB saved)
+✓  /Users/chris/pics/test_dedup/IMG_1624.jpeg -> /Users/chris/org_pics_test/13/06/07/IMG_1624.jpeg [EXIF] (PROCESSED)
+✓  /Users/chris/pics/test_dedup/IMG_0832.jpeg -> /Users/chris/org_pics_test/24/12/28/IMG_0832.jpeg [EXIF] (PROCESSED)
+✓  /Users/chris/pics/test_dedup/IMG_0189.jpeg -> /Users/chris/org_pics_test/24/12/22/IMG_0189.jpeg [EXIF] (PROCESSED)
+✓  /Users/chris/pics/test_dedup/IMG_0189_copy.jpeg -> /Users/chris/org_pics_test/24/12/22/IMG_0189_copy.jpeg [EXIF] (PROCESSED)
+✓  /Users/chris/pics/test_dedup/subfolder/IMG_0189.jpeg -> /Users/chris/org_pics_test/24/12/22/IMG_0189.jpeg [EXIF] (PROCESSED)
+✓  /Users/chris/pics/test_dedup/IMG_0189_duplicate.jpeg -> /Users/chris/org_pics_test/24/12/22/IMG_0189_duplicate.jpeg [EXIF] (PROCESSED)
+
+=== SUMMARY ===
+Total files: 6
+Processed: 6
+Errors: 0
+Files with unreliable dates: 0
+Duplicate files skipped: 2
+Space saved from deduplication: 7.96 MB
+
+Legend:
+✓  = Successfully processed with reliable date
+⚠️  = Processed but date may be unreliable (preserved source structure)
+🔄 = Skipped duplicate file
+EXIF = Date from image metadata
+INFERRED = Date inferred from directory peers with EXIF data
+FILE_TIME = Date from file timestamp
+UNRELIABLE_DATE = File timestamp seems invalid (too old/future)

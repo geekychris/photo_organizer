@@ -1,0 +1,88 @@
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpzZk8bv/source/test.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpzZk8bv/target/25/10/11/test.jpg,2025-10-11 00:26:01 UTC,source,11,ccabe5d3834f717e62994df67d25e96da8db75721ba29cd9d5dc80c7785cf6b5,false,LOG_ONLY
+SUMMARY,"Processed: 1, Errors: 0",2025-10-11 00:26:01 UTC,Total files: 1,0,N/A,false,SUMMARY
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpRHGvGY/source/old_photos/ancient.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpRHGvGY/target/undated/old_photos/ancient.jpg,2005-10-16 00:26:01 UTC,old_photos,15,8f9122610eaf8fffeec9dabc0c6c7d4f4d6a7a8ff32a855732ae776af4c0e796,false,PRESERVED_STRUCTURE
+SUMMARY,"Processed: 1, Errors: 0",2025-10-11 00:26:01 UTC,Total files: 1,0,N/A,false,SUMMARY
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpZm03Ky/source/old_photos/old.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpZm03Ky/target/undated/old_photos/old.jpg,2010-10-15 00:26:01 UTC,old_photos,10,d405b62566026a1dcdd1758878405709f5a70432b49b519cc007c87f22b478f1,false,PRESERVED_STRUCTURE
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpZm03Ky/source/recent_photos/recent.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpZm03Ky/target/25/10/11/recent.jpg,2025-10-11 00:26:01 UTC,recent_photos,13,0d675d771055d2d853c60f606dc65bbb046fb825ab9fca3c35ef8b0ba6ac8d6b,false,PROCESSED
+SUMMARY,"Processed: 2, Errors: 0",2025-10-11 00:26:01 UTC,Total files: 2,0,N/A,false,SUMMARY
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpss6ClE/source/test.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpss6ClE/target/25/10/11/test.jpg,2025-10-11 00:26:13 UTC,source,11,ccabe5d3834f717e62994df67d25e96da8db75721ba29cd9d5dc80c7785cf6b5,false,LOG_ONLY
+SUMMARY,"Processed: 1, Errors: 0",2025-10-11 00:26:13 UTC,Total files: 1,0,N/A,false,SUMMARY
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpBVKdcV/source/test.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpBVKdcV/target/25/10/11/test.jpg,2025-10-11 00:26:18 UTC,source,11,ccabe5d3834f717e62994df67d25e96da8db75721ba29cd9d5dc80c7785cf6b5,false,LOG_ONLY
+SUMMARY,"Processed: 1, Errors: 0",2025-10-11 00:26:18 UTC,Total files: 1,0,N/A,false,SUMMARY
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmp82gv5T/source/old_photos/ancient.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmp82gv5T/target/undated/old_photos/ancient.jpg,2005-10-16 00:26:18 UTC,old_photos,15,8f9122610eaf8fffeec9dabc0c6c7d4f4d6a7a8ff32a855732ae776af4c0e796,false,PRESERVED_STRUCTURE
+SUMMARY,"Processed: 1, Errors: 0",2025-10-11 00:26:18 UTC,Total files: 1,0,N/A,false,SUMMARY
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmp2wbJ07/source/old_photos/old.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmp2wbJ07/target/undated/old_photos/old.jpg,2010-10-15 00:26:18 UTC,old_photos,10,d405b62566026a1dcdd1758878405709f5a70432b49b519cc007c87f22b478f1,false,PRESERVED_STRUCTURE
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmp2wbJ07/source/recent_photos/recent.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmp2wbJ07/target/25/10/11/recent.jpg,2025-10-11 00:26:18 UTC,recent_photos,13,0d675d771055d2d853c60f606dc65bbb046fb825ab9fca3c35ef8b0ba6ac8d6b,false,PROCESSED
+SUMMARY,"Processed: 2, Errors: 0",2025-10-11 00:26:18 UTC,Total files: 2,0,N/A,false,SUMMARY
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpjtkxmK/source/test.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpjtkxmK/target/25/10/11/test.jpg,2025-10-11 01:24:12 UTC,source,11,ccabe5d3834f717e62994df67d25e96da8db75721ba29cd9d5dc80c7785cf6b5,false,LOG_ONLY
+SUMMARY,"Processed: 1, Errors: 0",2025-10-11 01:24:12 UTC,Total files: 1,0,N/A,false,SUMMARY
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpiopDJi/source/old_photos/ancient.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpiopDJi/target/undated/old_photos/ancient.jpg,2005-10-16 01:24:12 UTC,old_photos,15,8f9122610eaf8fffeec9dabc0c6c7d4f4d6a7a8ff32a855732ae776af4c0e796,false,PRESERVED_STRUCTURE
+SUMMARY,"Processed: 1, Errors: 0",2025-10-11 01:24:12 UTC,Total files: 1,0,N/A,false,SUMMARY
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpli1JY1/source/old_photos/old.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpli1JY1/target/undated/old_photos/old.jpg,2010-10-15 01:24:12 UTC,old_photos,10,d405b62566026a1dcdd1758878405709f5a70432b49b519cc007c87f22b478f1,false,PRESERVED_STRUCTURE
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpli1JY1/source/recent_photos/recent.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpli1JY1/target/25/10/11/recent.jpg,2025-10-11 01:24:12 UTC,recent_photos,13,0d675d771055d2d853c60f606dc65bbb046fb825ab9fca3c35ef8b0ba6ac8d6b,false,PROCESSED
+SUMMARY,"Processed: 2, Errors: 0",2025-10-11 01:24:12 UTC,Total files: 2,0,N/A,false,SUMMARY
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpX8Jp50/source/test.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpX8Jp50/target/25/10/11/test.jpg,2025-10-11 01:24:57 UTC,source,11,ccabe5d3834f717e62994df67d25e96da8db75721ba29cd9d5dc80c7785cf6b5,false,LOG_ONLY
+SUMMARY,"Processed: 1, Errors: 0",2025-10-11 01:24:57 UTC,Total files: 1,0,N/A,false,SUMMARY
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmp8BKvbF/source/old_photos/ancient.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmp8BKvbF/target/undated/old_photos/ancient.jpg,2005-10-16 01:24:57 UTC,old_photos,15,8f9122610eaf8fffeec9dabc0c6c7d4f4d6a7a8ff32a855732ae776af4c0e796,false,PRESERVED_STRUCTURE
+SUMMARY,"Processed: 1, Errors: 0",2025-10-11 01:24:57 UTC,Total files: 1,0,N/A,false,SUMMARY
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpyRtXVH/source/old_photos/old.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpyRtXVH/target/undated/old_photos/old.jpg,2010-10-15 01:24:57 UTC,old_photos,10,d405b62566026a1dcdd1758878405709f5a70432b49b519cc007c87f22b478f1,false,PRESERVED_STRUCTURE
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpyRtXVH/source/recent_photos/recent.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpyRtXVH/target/25/10/11/recent.jpg,2025-10-11 01:24:57 UTC,recent_photos,13,0d675d771055d2d853c60f606dc65bbb046fb825ab9fca3c35ef8b0ba6ac8d6b,false,PROCESSED
+SUMMARY,"Processed: 2, Errors: 0",2025-10-11 01:24:57 UTC,Total files: 2,0,N/A,false,SUMMARY
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmp73261Q/source/test.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmp73261Q/target/25/10/11/test.jpg,2025-10-11 01:25:02 UTC,source,11,ccabe5d3834f717e62994df67d25e96da8db75721ba29cd9d5dc80c7785cf6b5,false,LOG_ONLY
+SUMMARY,"Processed: 1, Errors: 0",2025-10-11 01:25:02 UTC,Total files: 1,0,N/A,false,SUMMARY
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpCZx6B5/source/old_photos/ancient.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpCZx6B5/target/undated/old_photos/ancient.jpg,2005-10-16 01:25:02 UTC,old_photos,15,8f9122610eaf8fffeec9dabc0c6c7d4f4d6a7a8ff32a855732ae776af4c0e796,false,PRESERVED_STRUCTURE
+SUMMARY,"Processed: 1, Errors: 0",2025-10-11 01:25:02 UTC,Total files: 1,0,N/A,false,SUMMARY
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpSWlNO2/source/old_photos/old.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpSWlNO2/target/undated/old_photos/old.jpg,2010-10-15 01:25:02 UTC,old_photos,10,d405b62566026a1dcdd1758878405709f5a70432b49b519cc007c87f22b478f1,false,PRESERVED_STRUCTURE
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpSWlNO2/source/recent_photos/recent.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpSWlNO2/target/25/10/11/recent.jpg,2025-10-11 01:25:02 UTC,recent_photos,13,0d675d771055d2d853c60f606dc65bbb046fb825ab9fca3c35ef8b0ba6ac8d6b,false,PROCESSED
+SUMMARY,"Processed: 2, Errors: 0",2025-10-11 01:25:02 UTC,Total files: 2,0,N/A,false,SUMMARY
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpmcNHvH/source/vacation_photos/IMG_001.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpmcNHvH/target/25/10/11/IMG_001.jpg,2025-10-11 01:25:38 UTC,vacation_photos,16,9dba0fb694099483dce1ca8d1162d30282fde06657698935eaba751321d4a60f,false,PROCESSED
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpmcNHvH/source/no_exif_photos/scan.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpmcNHvH/target/undated/no_exif_photos/scan.jpg,2010-10-15 01:25:38 UTC,no_exif_photos,15,c05012b55ae18823e3e505f073f1b96f2468ae9d4280be6d97384ee69673a87e,false,PRESERVED_STRUCTURE
+SUMMARY,"Processed: 2, Errors: 0",2025-10-11 01:25:38 UTC,Total files: 2,0,N/A,false,SUMMARY
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpxI5pXT/source/vacation_photos/document.txt,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpxI5pXT/target/undated/vacation_photos/document.txt,2010-10-15 01:26:18 UTC,vacation_photos,22,d684558476d98a48842bf3cdd7bb9b4e9d5ccbcd5cf010d37f2bafef940ca38b,false,PRESERVED_STRUCTURE
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpxI5pXT/source/vacation_photos/IMG_001.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpxI5pXT/target/25/10/11/IMG_001.jpg,2025-10-11 01:26:18 UTC,vacation_photos,16,9dba0fb694099483dce1ca8d1162d30282fde06657698935eaba751321d4a60f,false,PROCESSED
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpxI5pXT/source/no_exif_photos/scan.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpxI5pXT/target/undated/no_exif_photos/scan.jpg,2010-10-15 01:26:18 UTC,no_exif_photos,15,c05012b55ae18823e3e505f073f1b96f2468ae9d4280be6d97384ee69673a87e,false,PRESERVED_STRUCTURE
+SUMMARY,"Processed: 3, Errors: 0",2025-10-11 01:26:18 UTC,Total files: 3,0,N/A,false,SUMMARY
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpsTymnA/source/vacation_photos/document.txt,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpsTymnA/target/25/10/11/document.txt,2025-10-11 01:28:05 UTC,vacation_photos,13,b0675e2495e88f0be0c3f22075a9dfed69dbca5e2f11046cd0a09ec7431546e1,false,PROCESSED
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpsTymnA/source/vacation_photos/IMG_001.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpsTymnA/target/25/10/11/IMG_001.jpg,2025-10-11 01:28:05 UTC,vacation_photos,13,0d675d771055d2d853c60f606dc65bbb046fb825ab9fca3c35ef8b0ba6ac8d6b,false,PROCESSED
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpsTymnA/source/no_exif_photos/scan.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpsTymnA/target/undated/no_exif_photos/scan.jpg,2010-10-15 01:28:05 UTC,no_exif_photos,15,c05012b55ae18823e3e505f073f1b96f2468ae9d4280be6d97384ee69673a87e,false,PRESERVED_STRUCTURE
+SUMMARY,"Processed: 3, Errors: 0",2025-10-11 01:28:05 UTC,Total files: 3,0,N/A,false,SUMMARY
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpz2rORU/source/test.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpz2rORU/target/25/10/11/test.jpg,2025-10-11 01:28:10 UTC,source,11,ccabe5d3834f717e62994df67d25e96da8db75721ba29cd9d5dc80c7785cf6b5,false,LOG_ONLY
+SUMMARY,"Processed: 1, Errors: 0",2025-10-11 01:28:10 UTC,Total files: 1,0,N/A,false,SUMMARY
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmp3osCmm/source/old_photos/ancient.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmp3osCmm/target/undated/old_photos/ancient.jpg,2005-10-16 01:28:10 UTC,old_photos,15,8f9122610eaf8fffeec9dabc0c6c7d4f4d6a7a8ff32a855732ae776af4c0e796,false,PRESERVED_STRUCTURE
+SUMMARY,"Processed: 1, Errors: 0",2025-10-11 01:28:10 UTC,Total files: 1,0,N/A,false,SUMMARY
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmplobaK0/source/old_photos/old.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmplobaK0/target/undated/old_photos/old.jpg,2010-10-15 01:28:10 UTC,old_photos,10,d405b62566026a1dcdd1758878405709f5a70432b49b519cc007c87f22b478f1,false,PRESERVED_STRUCTURE
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmp3YOhFN/source/vacation_photos/document.txt,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmp3YOhFN/target/25/10/11/document.txt,2025-10-11 01:28:10 UTC,vacation_photos,13,b0675e2495e88f0be0c3f22075a9dfed69dbca5e2f11046cd0a09ec7431546e1,false,PROCESSED
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmplobaK0/source/recent_photos/recent.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmplobaK0/target/25/10/11/recent.jpg,2025-10-11 01:28:10 UTC,recent_photos,13,0d675d771055d2d853c60f606dc65bbb046fb825ab9fca3c35ef8b0ba6ac8d6b,false,PROCESSED
+SUMMARY,"Processed: 2, Errors: 0",2025-10-11 01:28:10 UTC,Total files: 2,0,N/A,false,SUMMARY
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmp3YOhFN/source/vacation_photos/IMG_001.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmp3YOhFN/target/25/10/11/IMG_001.jpg,2025-10-11 01:28:10 UTC,vacation_photos,13,0d675d771055d2d853c60f606dc65bbb046fb825ab9fca3c35ef8b0ba6ac8d6b,false,PROCESSED
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmp3YOhFN/source/no_exif_photos/scan.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmp3YOhFN/target/undated/no_exif_photos/scan.jpg,2010-10-15 01:28:10 UTC,no_exif_photos,15,c05012b55ae18823e3e505f073f1b96f2468ae9d4280be6d97384ee69673a87e,false,PRESERVED_STRUCTURE
+SUMMARY,"Processed: 3, Errors: 0",2025-10-11 01:28:10 UTC,Total files: 3,0,N/A,false,SUMMARY
+source_path,target_path,timestamp,directory_context,file_size,file_hash,exif_date_available,operation
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpDuc4eS/source/vacation_photos/document.txt,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpDuc4eS/target/25/10/11/document.txt,2025-10-11 01:28:21 UTC,vacation_photos,13,b0675e2495e88f0be0c3f22075a9dfed69dbca5e2f11046cd0a09ec7431546e1,false,PROCESSED
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpDuc4eS/source/vacation_photos/IMG_001.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpDuc4eS/target/25/10/11/IMG_001.jpg,2025-10-11 01:28:21 UTC,vacation_photos,13,0d675d771055d2d853c60f606dc65bbb046fb825ab9fca3c35ef8b0ba6ac8d6b,false,PROCESSED
+/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpDuc4eS/source/no_exif_photos/scan.jpg,/var/folders/zj/q7sngypd5k3djt918mzd9gqw0000gn/T/.tmpDuc4eS/target/undated/no_exif_photos/scan.jpg,2010-10-15 01:28:21 UTC,no_exif_photos,15,c05012b55ae18823e3e505f073f1b96f2468ae9d4280be6d97384ee69673a87e,false,PRESERVED_STRUCTURE
+SUMMARY,"Processed: 3, Errors: 0",2025-10-11 01:28:21 UTC,Total files: 3,0,N/A,false,SUMMARY

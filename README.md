@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Photo Organizer logo" width="180">
+</p>
+
 # Photo Organizer
 
 A powerful Rust-based command-line tool for organizing large collections of photos and raw image files by date, using EXIF data when available. The tool creates a structured `yy/mm/dd` directory hierarchy and handles duplicates intelligently.
